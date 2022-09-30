@@ -17,7 +17,7 @@ int main()
         if (num == 12 || num == 15)
             cant++;
     }
-    printf("La cantidad de valores iguales a 12 o 15 es: %d", cant);
     fclose(archivo);
+    printf("La cantidad de valores iguales a 12 o 15 es: %d", cant);
     return 0;
 }
