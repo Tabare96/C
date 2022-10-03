@@ -24,3 +24,18 @@ int main()
     printf("La suma de los valores mayores a 10 del vector es: %d", suma(vector, 0));
     return 0;
 }
+
+////////////////////////////////////////////
+////////////archivoDeEnteros.txt////////////
+////////////////////////////////////////////
+/*
+12
+15
+34
+54
+56
+76
+78
+98
+90
+*/
