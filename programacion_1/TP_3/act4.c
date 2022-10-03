@@ -1,0 +1,1 @@
+//Explique dos instrucciones que se usan para el manejo de punteros.
