@@ -1,1 +1,1 @@
-El promedio de los elementos pares del vector es: 2.00
+El promedio de los elementos pares del vector es: 51.00
